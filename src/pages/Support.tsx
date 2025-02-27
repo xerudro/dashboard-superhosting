@@ -1,4 +1,3 @@
-import React from 'react';
 import { LifeBuoy, MessageCircle, FileQuestion, Phone } from 'lucide-react';
 
 const Support = () => {
